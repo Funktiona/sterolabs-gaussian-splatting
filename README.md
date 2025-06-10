@@ -11,13 +11,11 @@ This repository is focused on creating Gaussian splatting based on the Stereolab
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   https://github.com/Funktiona/sterolabs-gaussian-splatting
+   sudo docker build -t stereolabs-gaussian-splatting .
+   sudo docker run -it --rm     --name zed-container stereolabs-gaussian-splatting
    ```
 
-2. Build and run the container:
-   ```bash
-   ./run.sh
-   ```
 
 ## Contents
 
