@@ -1,0 +1,1 @@
+A single gaussian takes ~2000 bytes of memory, so currenly you need ~2GB of GPU memory for each million gaussians.

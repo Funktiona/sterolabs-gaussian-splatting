@@ -1,0 +1,18 @@
+# Docker
+.docker/
+*.env
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+/image
+/images
+/venv
+/colmap_workspace
